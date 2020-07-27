@@ -3,10 +3,7 @@
 ## 2D steel frame example.
 ## 3 story steel building with rigid beam-column connections.  
 ## This script uses W-section command inOpensees to create steel.. 
-## .. beam-column fiber sections. 
-##
-## By - Anurag Upadhyay, PhD Student, University of Utah.
-## Date - 08/06/2018
+## .. beam-column fiber sections.
 ##################################################################
 
 print("=========================================================")
