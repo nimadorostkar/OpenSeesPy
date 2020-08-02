@@ -1,5 +1,4 @@
 from openseespy.opensees import *
-
 from math import asin, sqrt
 
 # Two dimensional Frame: Eigenvalue & Static Loads
